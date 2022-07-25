@@ -12,9 +12,13 @@
 
 ### A little more about me...``
 
-<p><em>Qualified Technical Professional of the Career in Administration and Support of Computer Networks.
-my skills are teamwork, proactivity, creativity, good interpersonal relationships and responsibility.
-I have experience in IT, HW, SW and NETWORKS support.
+<p><em>Hi, I'm Wilson, a technical professional with a degree in administration and support of computer networks.
+
+I am currently studying to be a full stack developer. I am passionate about programming and web development (HTML, CSS, JavaScript, React)(Sass, Bootstrap, GIT, Github, NodeJS)
+
+Among my skills is; teamwork, proactivity, creativity, good interpersonal relationships and responsibility.
+
+I have experience in the field of IT support, HW, SW, Printers, cabling and networks.
 With experience in customer service for an operational continuity project for BancoEstado.</em></p>
 
 <h3 align="left">Languages and Tools:</h3>
