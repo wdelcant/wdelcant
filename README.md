@@ -51,4 +51,4 @@ With experience in customer service for an operational continuity project for Ba
 
 ---
 
-[//]: # [![Footer](https://github.com/wdelcant/wdelcant/blob/main/logo.png)](https://wilsondelcanto.dev/)
+
