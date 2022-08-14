@@ -1,4 +1,4 @@
-[![Header](https://github.com/wdelcant/wdelcant.github.com/raw/main/WILSON%20DEL%20CANTO%20CEPEDA.gif)](https://wilsondelcanto.dev/)
+[![Header](https://github.com/wdelcant/wdelcant/blob/main/logo.png)](https://wilsondelcanto.dev/)
 
 <h2> Hi, I'm Wilson del canto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/wdelcant/wdelcant/raw/main/android-icon-96x96.png" width="120">
@@ -51,4 +51,4 @@ With experience in customer service for an operational continuity project for Ba
 
 ---
 
-[![Footer](https://github.com/wdelcant/wdelcant/blob/main/logo.png)](https://wilsondelcanto.dev/)
+[//]: # [![Footer](https://github.com/wdelcant/wdelcant/blob/main/logo.png)](https://wilsondelcanto.dev/)
