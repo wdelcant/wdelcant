@@ -1,7 +1,7 @@
 [![Header](https://github.com/wdelcant/wdelcant.github.com/raw/main/WILSON%20DEL%20CANTO%20CEPEDA.gif)](https://wilsondelcanto.dev/)
 
 <h2> Hi, I'm Wilson del canto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/99770820?s=400&u=7eba582b942c734c3e40f307d4c112a0def9d357&v=4" width="230">
+<img align='right' src="https://github.com/wdelcant/wdelcant/raw/main/android-icon-96x96.png" width="120">
 <p><em>Im from Chile</em></p>
 <p><em>IT Support Technician</em></p>
 <p><em>Full Stack Web Development Trainee</em></p>
