@@ -1,4 +1,4 @@
-[![Header](https://github.com/wdelcant/wdelcant/blob/main/logo.png)](https://wilsondelcanto.dev/)
+[![Header](https://raw.githubusercontent.com/wdelcant/wdelcant/main/api.gif)](https://wilsondelcanto.dev/)
 
 <h2> Hi, I'm Wilson del canto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/wdelcant/wdelcant/raw/main/android-icon-96x96.png" width="120">
