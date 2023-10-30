@@ -3,7 +3,7 @@
 <h2> Hi, I'm Wilson del canto! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/wdelcant/wdelcant/raw/main/android-icon-96x96.png" width="120">
 <p><em>Im from Chile</em></p>
-<p><em>IT Support Technician</em></p>
+<p><em>IT Support</em></p>
 <p><em>Full Stack Web Development Trainee</em></p>
 
 ### A little more about me...``
