@@ -28,7 +28,7 @@ With experience in customer service for an operational continuity project for Ba
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Design:</h3>
@@ -40,6 +40,7 @@ With experience in customer service for an operational continuity project for Ba
 <h3 align="left">Operating System:</h3>
 <p align="left"> 
 <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://fedoraproject.org/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/es-xl/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
