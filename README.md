@@ -28,6 +28,7 @@ With experience in customer service for an operational continuity project for Ba
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Design:</h3>
