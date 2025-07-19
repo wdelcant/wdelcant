@@ -8,9 +8,13 @@
 
 ### A little more about me...``
 
-<p><em>Hi, I'm Wilson—a professional with solid experience in IT support, problem management, and technical operations across diverse industries. I specialize in ensuring operational continuity and maintaining high standards of service for major organizations.
+<p><em>Hi, I'm Wilson—a professional with a solid background in IT support, problem management, and technical operations across diverse industries. I specialize in ensuring operational continuity and maintaining high standards of service for major organizations.
 
 Currently, I serve as a Problem Management Analyst, leading the resolution of technical incidents for a corporate holding. I collaborate with cross-functional teams to identify root causes, implement solutions, and continuously improve service reliability. My background includes regional IT support for large retail and financial institutions, where I ensured system stability and delivered efficient responses to critical technical issues.
+
+I am continuously specializing in full stack development and automation, with hands-on experience in JavaScript, React, Node.js, Express, Next.js, Sass, Tailwind, and Git. My professional focus also includes process automation—working with Bash and Python scripting, Microsoft Power Automate and Power Apps, as well as low-code/no-code tools like n8n, MCP, and AI-driven automation.
+
+Additionally, I have experience deploying and managing applications on Google Cloud Platform (Cloud Run, Compute Engine, and related services), enabling robust and scalable solutions.
 
 **Core strengths:**
 
@@ -19,24 +23,20 @@ Currently, I serve as a Problem Management Analyst, leading the resolution of te
 - Results-oriented mindset
 - Adaptability and strong interpersonal skills
 
-I am passionate about delivering high-impact solutions that drive business continuity and client satisfaction.
-
-Currently, I am pursuing studies as a Full Stack Developer, deepening my expertise in web technologies including JavaScript, React, Node.js, Express, Next.js, Sass, Tailwind, and Git. I bring a creative, proactive, and responsible approach to all projects, and enjoy both technical and managerial challenges.
-
-I'm always open to connecting with other professionals and exploring new opportunities to apply my skills in IT operations and software development.
+I am passionate about delivering high-impact solutions that drive business continuity and client satisfaction. I am always open to connecting with other professionals and exploring new opportunities to apply my expertise in IT operations, automation, and software development.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://dev.java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+
 </p>
 
 <h3 align="left">Design:</h3>
@@ -47,7 +47,7 @@ I'm always open to connecting with other professionals and exploring new opportu
 
 <h3 align="left">Operating System:</h3>
 <p align="left"> 
-<a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="photoshop" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://fedoraproject.org/es/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-plain.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.microsoft.com/es-xl/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
