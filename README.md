@@ -8,14 +8,22 @@
 
 ### A little more about me...``
 
-<p><em>Hi, I'm Wilson, a technical professional with a degree in administration and support of computer networks.
+<p><em>Hi, I'm Wilson—a professional with solid experience in IT support, problem management, and technical operations across diverse industries. I specialize in ensuring operational continuity and maintaining high standards of service for major organizations.
 
-I am currently studying to be a full stack developer. I am passionate about programming and web development (HTML, CSS, JavaScript, React)(Sass, Bootstrap, GIT, Github, NodeJS)
+Currently, I serve as a Problem Management Analyst, leading the resolution of technical incidents for a corporate holding. I collaborate with cross-functional teams to identify root causes, implement solutions, and continuously improve service reliability. My background includes regional IT support for large retail and financial institutions, where I ensured system stability and delivered efficient responses to critical technical issues.
 
-Among my skills is; teamwork, proactivity, creativity, good interpersonal relationships and responsibility.
+**Core strengths:**
 
-I have experience in the field of IT support, HW, SW, Printers, cabling and networks.
-With experience in customer service for an operational continuity project for BancoEstado.</em></p>
+- Team collaboration
+- Proactive and analytical problem-solving
+- Results-oriented mindset
+- Adaptability and strong interpersonal skills
+
+I am passionate about delivering high-impact solutions that drive business continuity and client satisfaction.
+
+Currently, I am pursuing studies as a Full Stack Developer, deepening my expertise in web technologies including JavaScript, React, Node.js, Express, Next.js, Sass, Tailwind, and Git. I bring a creative, proactive, and responsible approach to all projects, and enjoy both technical and managerial challenges.
+
+I'm always open to connecting with other professionals and exploring new opportunities to apply my skills in IT operations and software development.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
